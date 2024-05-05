@@ -1,0 +1,5 @@
+pyspark==3.2.1
+mlflow
+pandas
+numpy
+requests
